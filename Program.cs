@@ -11,6 +11,7 @@ namespace Github_consol_opgave_u45
         static void Main(string[] args)
         {
             Console.WriteLine("Hallo Kasper!");
+            Console.WriteLine("Hallo world!");
         }
     }
 }
