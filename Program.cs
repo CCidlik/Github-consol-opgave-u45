@@ -13,6 +13,7 @@ namespace Github_consol_opgave_u45
             Console.WriteLine("Hallo Kasper!");
             Console.WriteLine("Hallo world!");
             Console.WriteLine("Hallo CAS!");
+            Console.WriteLine("Hallo from Christian");
         }
     }
 }
